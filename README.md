@@ -31,10 +31,12 @@ simple-baseV2/
 ├── README.md
 └── .gitignore
 ```
-## ⭐ Penjelasan Struktur Folder
+## ⭐ Penjelasan Struktur Folder/File
 ```txt
 plugins/ => Folder untuk menyimpan fitur plugins (menu, info, dll)
 handler/ => Berisi sistem handler bot
 lib/     => Berisi utils dan loader function
+settings.js => Konfigurasi bot seperti nama bot, owner, pairing code, dll
+index.js    => File utama untuk menjalankan bot (connetToWhatsapp)
 ```
 ---
