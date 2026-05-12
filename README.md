@@ -50,5 +50,14 @@ index.js    => File utama untuk menjalankan bot (connetToWhatsapp)
 ---
 ## ⚙️ Konfigurasi Bot (settings.js)
 ```javascript
-
+global.nameBot   => Nama Bot (Contoh : LexBot)
+global.owner     => Nomor Owner Bot, gunakan array ['nomor owner']
+global.ownerName => Nama Owner (Bebas)
+global.dev       => Developer Bot (KyynXz)
+global.prefix    => Custom prefix (., !, #)
+global.version   => Versi Bot (Contoh : 1.0.0)
+global.footer    => Footer (teks bawah bot)
+global.sessionName => session (Disarankan tidak diubah)
+global.thumb       => thumbnail bot (Disarankan link image)
+global.customPairing => Custom pairing code (minimal 8 karakter, contoh : KYYNXYZN)
 ```
