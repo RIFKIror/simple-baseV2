@@ -87,6 +87,7 @@ export default handler
 - Sekarang sudah ada sistem plugin (jadi owner mudah untuk menambah/menghapus/melihat/mengambil plugin)
 ---
 - ❗ Berikut Command Manage Plugin
+
 | Command | Fungsi | Contoh |
 |---|---|---|
 | .plugin | Membuat folder/file plugin baru | .plugin [reply kode] plugins/tes.js |
