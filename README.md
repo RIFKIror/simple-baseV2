@@ -7,8 +7,8 @@
 ![Axios](https://img.shields.io/badge/Axios-HTTP-blue)
 ---
 
-Base bot adalah template untuk membuat bot WhatsApp sehingga kamu tidak perlu membuat sistem bot dari nol lagi.  
-Base ini dikembangkan oleh `KyynXz` menggunakan library Baileys `@dnuzi/baileys`.
+• Base bot adalah template untuk membuat bot WhatsApp sehingga kamu tidak perlu membuat sistem bot dari nol lagi.  
+• Base ini dikembangkan oleh `KyynXz` menggunakan library Baileys `@dnuzi/baileys`.
 
 ## Berikut beberapa fitur yang tersedia:
 - ESM MODULE
@@ -48,3 +48,7 @@ settings.js => Konfigurasi bot seperti nama bot, owner, pairing code, dll
 index.js    => File utama untuk menjalankan bot (connetToWhatsapp)
 ```
 ---
+## ⚙️ Konfigurasi Bot (settings.js)
+```javascript
+
+```
