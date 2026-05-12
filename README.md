@@ -61,3 +61,23 @@ global.sessionName => session (Disarankan tidak diubah)
 global.thumb       => thumbnail bot (Disarankan link image)
 global.customPairing => Custom pairing code (minimal 8 karakter, contoh : KYYNXYZN)
 ```
+---
+## ❓ Bagaimana Cara Menambahkan Fitur?
+- Buat file di `plugins/`, dengan format .js
+```txt
+plugins/tes.js
+```
+- Isi file dengan code berikut (ini akan memunculkan pesan)
+```javascript
+let handler = async (conn, m) => {
+  await conn.sendMessage(m.chat, {
+    text: 'Hai, aku gw'
+  }, { quoted: m })
+}
+
+handler.command = ['test']
+handler.help = ['test']
+handler.tag = ['main']
+
+export default handler
+```
