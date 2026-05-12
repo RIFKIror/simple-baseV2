@@ -81,3 +81,15 @@ handler.tag = ['main']
 
 export default handler
 ```
+---
+## 📊 Fitur Manage Plugins (Khusus Owner)
+- Sekarang tidak perlu ribet buat file plugins/tes.js, restart bot, connect ulang ke bot, dll
+- Sekarang sudah ada sistem plugin (jadi owner mudah untuk menambah/menghapus/melihat/mengambil plugin)
+---
+- ❗ Berikut Command Manage Plugin
+| Command | Fungsi | Contoh |
+|---|---|---|
+| .plugin | Membuat folder/file plugin baru | .plugin [reply kode] plugins/tes.js |
+| .delplugin | Menghapus folder/file plugin | .delplugin plugins/tes.js |
+| .getplugin | Ambil Kode Plugin dalam bentuk file .js | .getplugin plugins/tes.js |
+| .listplugin | Memunculkan daftar list plugin | .listplugin |
