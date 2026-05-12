@@ -1,5 +1,13 @@
 # ☁️ Simple Base V2 Button
 
+![Node.js](https://img.shields.io/badge/Node.js-v18+-green)
+![NPM](https://img.shields.io/badge/NPM-enabled-red)
+![JavaScript](https://img.shields.io/badge/JavaScript-ESM-yellow)
+![Baileys](https://img.shields.io/badge/Baileys-Library-purple)
+![Axios](https://img.shields.io/badge/Axios-HTTP-blue)
+![Cheerio](https://img.shields.io/badge/Cheerio-Scraping-orange)
+---
+
 Base bot adalah template untuk membuat bot WhatsApp sehingga kamu tidak perlu membuat sistem bot dari nol lagi.  
 Base ini dikembangkan oleh `KyynXz` menggunakan library Baileys `@dnuzi/baileys`.
 
@@ -16,6 +24,7 @@ Base ini dikembangkan oleh `KyynXz` menggunakan library Baileys `@dnuzi/baileys`
 - Fitur Hapus Plugin (Owner)
 - Fitur GetPlugin (Owner)
 - Fitur List Plugin (Owner)
+- Support run di termux/panel pterodactyl
 ---
 # 📂 Struktur Folder
 
