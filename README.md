@@ -86,11 +86,11 @@ export default handler
 - Sekarang tidak perlu ribet buat file plugins/tes.js, restart bot, connect ulang ke bot, dll
 - Sekarang sudah ada sistem plugin (jadi owner mudah untuk menambah/menghapus/melihat/mengambil plugin)
 ---
-- ❗ Berikut Command Manage Plugin
+## ❗ Command Manage Plugin
 
 | Command | Fungsi | Contoh |
 |---|---|---|
-| .plugin | Membuat folder/file plugin baru | .plugin [reply kode] plugins/tes.js |
-| .delplugin | Menghapus folder/file plugin | .delplugin plugins/tes.js |
-| .getplugin | Ambil Kode Plugin dalam bentuk file .js | .getplugin plugins/tes.js |
-| .listplugin | Memunculkan daftar list plugin | .listplugin |
+| `.plugin` | Membuat file atau plugin baru langsung dari WhatsApp | `.plugin [reply kode] plugins/test.js` |
+| `.delplugin` | Menghapus file plugin | `.delplugin plugins/test.js` |
+| `.getplugin` | Mengambil source code plugin dalam bentuk file `.js` | `.getplugin plugins/test.js` |
+| `.listplugin` | Menampilkan seluruh daftar plugin yang terpasang | `.listplugin` |
