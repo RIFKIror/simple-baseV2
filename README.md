@@ -1,9 +1,5 @@
-# Simple Base V2 Button
-<p align="center">
-  <img src="https://files.catbox.moe/8z0l7w.jpg" width="300"/>
-</p>
-
-<p align="center">
-  Simple WhatsApp Bot Base using ESM Module and Plugin Handler powered by Baileys @dnuzi/baileys.
-</p>
+# ☁️ Simple Base V2 Button
+## Base bot adalah template untuk membuat bot WhatsApp, dengan base kamu tidak perlu lagi ngoding bikin bot wa dari nol
+## Base ini dikembangkan oleh `KyynXz` menggunakan Baileys *@dnuzi/baileys*
+## Berikut adalah beberapa fitur :
 ---
