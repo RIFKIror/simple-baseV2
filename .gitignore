@@ -1,0 +1,5 @@
+node_modules/
+session/
+store.json
+creds.json
+tmp/

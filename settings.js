@@ -1,0 +1,10 @@
+global.nameBot = 'Simple Base V2'
+global.owner = ['6281239075413']
+global.ownerName = 'Kyyn'
+global.dev = "KyynXzz"
+global.prefix = '.'
+global.version = '1.0.0'
+global.footer = '© Created by KyynXz'
+global.sessionName = 'session'
+global.thumb = 'https://c.termai.cc/i129/y3Fx8T.jpg'
+global.customPairing = 'KYYNXYZN' // Custom pairing code, minimal 8 karakter
