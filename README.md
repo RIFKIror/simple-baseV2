@@ -123,3 +123,12 @@ node index.js
 - Baileys : @dnuzi/baileys
 - Thanks for @dnuzi/baileys
 - Npm Link : https://www.npmjs.com/package/@dnuzi/baileys
+---
+## Cara Penggunaannya ⤵️
+- Setelah file dijalankan, masukan nomor WhatsApp yang mau dijadikan bot (Example: `62812xxx`)
+- Nanti akan muncul pairing kode, `Contoh : KYYN-XYZN`
+- buka wa, klik perangkat tertaut, pencet tautkan perangkat (dg nomor handphone, jgn qr code)
+- Masukin pairing kode yang tadi udh muncul, selesai
+---
+## 📝 Noted
+> © Jika base ini membantu, jangan lupa kasih star ya, ini sangat membantu developer dalam mengembangkan base, Terimakasih 
