@@ -5,7 +5,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ESM-yellow)
 ![Baileys](https://img.shields.io/badge/Baileys-@dnuzi/baileys-purple)
 ![Axios](https://img.shields.io/badge/Axios-HTTP-blue)
-![Cheerio](https://img.shields.io/badge/Cheerio-Scraping-orange)
 ---
 
 Base bot adalah template untuk membuat bot WhatsApp sehingga kamu tidak perlu membuat sistem bot dari nol lagi.  
