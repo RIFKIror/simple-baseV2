@@ -31,5 +31,9 @@ simple-baseV2/
 ├── README.md
 └── .gitignore
 ```
-
+```txt
+`plugins/` => Folder untuk menyimpan fitur plugins (menu, info, dll)
+`handler/` => Berisi sistem handler bot
+`lib/`     => Berisi utils dan loader function
+```
 ---
