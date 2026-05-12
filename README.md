@@ -3,7 +3,7 @@
 Base bot adalah template untuk membuat bot WhatsApp sehingga kamu tidak perlu membuat sistem bot dari nol lagi.  
 Base ini dikembangkan oleh `KyynXz` menggunakan library Baileys `@dnuzi/baileys`.
 
-Berikut beberapa fitur yang tersedia:
+## Berikut beberapa fitur yang tersedia:
 - ESM MODULE
 - Ringan & Mudah digunakan
 - Custom Pairing Code
@@ -15,5 +15,21 @@ Berikut beberapa fitur yang tersedia:
 - Fitur Add Plugin (Owner)
 - Fitur Hapus Plugin (Owner)
 - Fitur GetPlugin (Owner)
-- Fitur List Plugin (Owner(
+- Fitur List Plugin (Owner)
+---
+# 📂 Struktur Folder
+
+```txt
+simple-baseV2/
+├── plugins/
+├── handler/
+├── lib/
+├── settings.js
+├── index.js
+├── package.json
+├── package-lock.json
+├── README.md
+└── .gitignore
+```
+
 ---
