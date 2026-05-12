@@ -94,3 +94,26 @@ export default handler
 | `.delplugin` | Menghapus file plugin | `.delplugin plugins/test.js` |
 | `.getplugin` | Mengambil source code plugin dalam bentuk file `.js` | `.getplugin plugins/test.js` |
 | `.listplugin` | Menampilkan seluruh daftar plugin yang terpasang | `.listplugin` |
+---
+## ❗ Informasi Developer
+
+| Info | Value |
+|---|---|
+| Developer | KyynXz |
+| GitHub | https://github.com/RIFKIror |
+| Website | https://kyynns.vercel.app |
+| REST API | https://api.lexcode.biz.id |
+| Snippet | https://www.lexcode.my.id |
+| WhatsApp | https://wa.me/6281239075413 |
+| Telegram | https://t.me/kyynxz31 |
+| Channel Wa | https://whatsapp.com/channel/0029VbC2uly2f3EEsyAGna1d |
+---
+# 🛠️ Cara Install di termux
+```bash
+pkg update && pkg upgrade -y
+pkg install git (jika belum ada)
+git clone https://github.com/RIFKIror/simple-baseV2.git
+cd simple-baseV2
+npm install
+node index.js
+```
