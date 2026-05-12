@@ -49,7 +49,7 @@ index.js    => File utama untuk menjalankan bot (connetToWhatsapp)
 ```
 ---
 ## ⚙️ Konfigurasi Bot (settings.js)
-```javascript
+```txt
 global.nameBot   => Nama Bot (Contoh : LexBot)
 global.owner     => Nomor Owner Bot, gunakan array ['nomor owner']
 global.ownerName => Nama Owner (Bebas)
