@@ -117,3 +117,9 @@ cd simple-baseV2
 npm install
 node index.js
 ```
+---
+## 👤 Credits
+- Base By : `KyynXz (LexCode)`
+- Baileys : @dnuzi/baileys
+- Thanks for @dnuzi/baileys
+- Npm Link : https://www.npmjs.com/package/@dnuzi/baileys
